@@ -4,13 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="Header" src="./src/banner-github.png">
-
 #
-
-
-
-
 
 ## Hi there 👋
 
