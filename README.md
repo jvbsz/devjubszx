@@ -6,7 +6,7 @@
 
 #
 
-## Hi there 👋
+## Hello world! I'm Julia Oliveira 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,8 +17,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Olá! Eu sou a Julia Oliveira 👋  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SdOJulia&show_icons=true&theme=radical)
