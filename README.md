@@ -7,7 +7,7 @@
 
 #
 
-## Hello world! I'm Julia Oliveira 👋
+## Hello world! I'm Julia Oliveira. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
