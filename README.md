@@ -7,7 +7,7 @@
 #
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF3F7&height=110&section=header"/>
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3BF3F7&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hello+World!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=20&pause=1000&color=3BF3F7&center=false&vCenter=false&random=false&width=500lines=%E2%8A%B9+Hello+World!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
