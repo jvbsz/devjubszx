@@ -7,7 +7,7 @@
 #
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF3F7&height=110&section=header"/>
 
-https://capsule-render.vercel.app/api?type=slice&height=110&text=%20Hello%20world!%20I'm%20Julia%20Oliveira&textBg=false&section=footer&reversal=true&fontColor=white&fontAlign=53&fontAlignY=55&fontSize=50
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=110&text=%20Hello%20world!%20I'm%20Julia%20Oliveira&textBg=false&section=footer&reversal=true&fontColor=white&fontAlign=53&fontAlignY=55&fontSize=50"/>
 
 ## Hello world! I'm Julia Oliveira
 
