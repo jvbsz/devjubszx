@@ -7,6 +7,7 @@
 
 #
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF3F7&height=110&section=header"/>
+
 ## Hello world! I'm Julia Oliveira
 
 - 🔭 I’m currently working on ...
