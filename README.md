@@ -10,8 +10,8 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjubszx&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjubszx&show_progress=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjubszx&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjubszx&show_progress=true&theme=gruvbox)
   
 
 <div style="display: inline_block"><br>
