@@ -38,3 +38,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devjubszx/devjubszx/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilhermeSK2&s=40&c=37a7d7&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
+<br>
+</div>
