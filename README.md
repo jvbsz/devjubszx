@@ -9,7 +9,7 @@
   </a>
 
 <p>
-Sou a Julia, estagiária de dados em Operations. 
+Sou a Julia, estagiária de dados em Operations. <br>
 Com experiência em programação nas linguagens abaixo, modelagem e governança de dados. 
 </p>
 
