@@ -9,7 +9,7 @@
   </a>
 
 <p>
-Sou a Julia, estagiária de dados em Operations
+Sou a Julia, estagiária de dados em Operations. Com experiência em programação nas linguagens abaixo, modelagem e governança de dados. 
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjubszx&show_icons=true&theme=tokyonight)
