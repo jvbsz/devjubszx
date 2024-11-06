@@ -7,7 +7,8 @@
  <a href="https://git.io/typing-svg">
   
   </a>
-OLÁ
+
+Sou a Julia, estagiária de dados em operations
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjubszx&show_icons=true&theme=cobalt)
