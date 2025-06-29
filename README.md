@@ -13,10 +13,7 @@ Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanc
 
 This is my stack I use regularly and feel most comfortable with:
 
-<div align="center" style="display: flex;">
-  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,aws,azure,docker,gcp,mongo,cassandra,postgres,git,github">
-  <img src="https://i.gifer.com/origin/cf/cffb69dea8656d32c4760a7edb2a435e_w200.gif"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,aws,azure,docker,gcp,mongo,cassandra,postgres,git,github">
 
 ## Learning
 
