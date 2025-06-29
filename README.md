@@ -1,47 +1,40 @@
+# Hi! I'm Júlia!
+
+Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanco](https://github.com/itau) and Data Science student at [FIAP](https://github.com/fiap).
+
+## Github Stats
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3BF3F7&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Boas+vindas+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF3F7&height=110&section=header"/>
- <a href="https://git.io/typing-svg">
-  
-  </a>
-
-
-<br>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjubszx&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjubszx&show_progress=true&theme=tokyonight)
-  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jubs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jubs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jubs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jubs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/jubszx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href="https://discord.com/channels/@me/1218313545914257609" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julia-oliveira-71372720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=devjubszx&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=devjubszx&theme=blue_navy&hide_border=true"/>
 </div>
 
-#
+## Stack
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjubszx/devjubszx/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devjubszx/devjubszx/output/github-contribution-grid-snake.svg">
-</picture>
+This is my stack I use regularly and feel most comfortable with:
 
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilhermeSK2&s=40&c=37a7d7&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" alt="visits">
-<br>
+<div align="center" style="display: flex;">
+  <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,aws,azure,docker,gcp,mongo,cassandra,postgres,git,github">
+  <img src="https://i.gifer.com/origin/cf/cffb69dea8656d32c4760a7edb2a435e_w200.gif"/>
 </div>
+
+## Learning
+
+These are the technologies I'm currently diving into:
+
+<img src="https://skillicons.dev/icons?i=r,kubernetes,obsidian,tensorflow,terraform,gcp,julia"/>
+
+## Discord
+
+I'm almost always online on Discord, it's the easiest way to reach me.
+
+[![DISCORD PRESENCE](https://lanyard.cnrad.dev/api/304610767116828674?borderRadius=10px)](https://discord.com/users/304610767116828674)
+[![DISCORD SERVER](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+
+# Socials
+
+Here you can find all my online profiles, feel free to connect.
+
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/julia-soliveira-/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:julia9escola@gmail.com)
+[![DISCORD](https://skillicons.dev/icons?i=discord)](https://discord.com/users/304610767116828674)
