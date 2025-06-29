@@ -5,8 +5,8 @@ Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanc
 ## Github Stats
 
 <div align="center">
-      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=devjubszx&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
-      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=devjubszx&theme=blue_navy&hide_border=true"/>
+      <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jvbszx&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false"/>
+      <img width="439px" src="https://github-readme-streak-stats.herokuapp.com/?user=jvbszx&theme=blue_navy&hide_border=true"/>
 </div>
 
 ## Stack
