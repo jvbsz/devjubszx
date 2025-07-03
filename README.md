@@ -2,7 +2,7 @@
 
 Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanco](https://github.com/itau) and Data Science student at [FIAP](https:)
 1x AWS Certified
-B2 Advanced English Level
+B2 Intermediate English Level
 ## Github Stats
 
 <div align="center">
