@@ -1,7 +1,8 @@
-# 👋 Hi! I'm Júlia!
+# Hi! I'm Júlia!
 
-Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanco](https://github.com/itau) and Data Science student at [FIAP](https://github.com/fiap).
-
+Hello, my name is Julia Oliveira, I'm a brazilian Data Analyst at [Itaú Unibanco](https://github.com/itau) and Data Science student at [FIAP](https:)
+1x AWS Certified
+B2 Advanced English Level
 ## Github Stats
 
 <div align="center">
